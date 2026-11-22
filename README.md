@@ -2,7 +2,7 @@
 
 A rebuild of the ImportNow concept website (a China-to-India import company), made for a hiring assignment. It is plain HTML, CSS and vanilla JavaScript, with Three.js 0.160.0 loaded through an import map. There is no framework and no build step: the files in this repo are the files that get served.
 
-Live site: <LIVE_URL>
+Live site: https://jennyjoelsam.github.io/importnow-website-replica/
 
 ## Features
 
